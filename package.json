@@ -1,0 +1,28 @@
+{
+  "name": "comp380_lab1_express",
+  "version": "1.0.0",
+  "description": "This is a simple node.js application using \"express\" module which serves static HTML files",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jishnusundar/comp308-Lab1Express.git"
+  },
+  "keywords": [
+    "Express",
+    "node.js",
+    "npm"
+  ],
+  "author": "Jishnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jishnusundar/COMP308-LabExercise1-SimpleExpress/issues"
+  },
+  "homepage": "https://github.com/jishnusundar/COMP308-LabExercise1-SimpleExpress#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
